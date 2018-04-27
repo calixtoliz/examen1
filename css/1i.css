@@ -1,0 +1,26 @@
+.color_rojo{
+    background-color:rgba(236, 44, 44, 0.87);
+    height: 200px;
+    
+}
+
+.color_verde{
+    background-color:rgba(25, 173, 141, 0.87);
+    height: 200px;
+    
+}
+
+.color_azul{
+    background-color:blue;
+    height: 50px;
+
+
+
+}
+.colo_negro{
+    background-color: black;
+    height: 100px;
+
+
+
+}
